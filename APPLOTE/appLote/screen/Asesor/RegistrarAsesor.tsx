@@ -9,7 +9,7 @@ import {
 } from "react-native";
 import React, { useState } from "react";
 
-const API_URL = "http://10.246.197.207:90";
+const API_URL = "http://10.244.147.236:90";
 
 const RegistrarAsesor = ({ navigation, route }) => {
   const [dni, setDni] = useState("");
