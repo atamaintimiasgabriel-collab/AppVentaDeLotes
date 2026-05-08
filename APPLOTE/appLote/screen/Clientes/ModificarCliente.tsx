@@ -114,7 +114,7 @@ const ModificarCliente = ({ navigation, route }) => {
             />
           </View>
         </View>
-
+   
         <View style={styles.row}>
           <View style={styles.column}>
             <Text style={styles.label}>Celular:</Text>
